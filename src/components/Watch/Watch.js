@@ -13,7 +13,6 @@ const Watch = () => {
     useEffect(() => {
 console.log(steps);
     }, [steps]);
-    
 
     return (
         <div>
