@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/day-77_m-47_how-react-works_september-22/static/css/main.073c9b0a.css",
-    "main.js": "/day-77_m-47_how-react-works_september-22/static/js/main.fc221622.js",
+    "main.js": "/day-77_m-47_how-react-works_september-22/static/js/main.78688072.js",
     "static/js/787.020db75e.chunk.js": "/day-77_m-47_how-react-works_september-22/static/js/787.020db75e.chunk.js",
     "index.html": "/day-77_m-47_how-react-works_september-22/index.html",
     "main.073c9b0a.css.map": "/day-77_m-47_how-react-works_september-22/static/css/main.073c9b0a.css.map",
-    "main.fc221622.js.map": "/day-77_m-47_how-react-works_september-22/static/js/main.fc221622.js.map",
+    "main.78688072.js.map": "/day-77_m-47_how-react-works_september-22/static/js/main.78688072.js.map",
     "787.020db75e.chunk.js.map": "/day-77_m-47_how-react-works_september-22/static/js/787.020db75e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fc221622.js"
+    "static/js/main.78688072.js"
   ]
 }
